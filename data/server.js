@@ -12,3 +12,4 @@ Happiness is not something ready made. It comes from your own actions. Optimizat
 If you can dream it, you can do it. Containerization Zero Downtime Deployment Automation Data Pipeline
 JavaScript Agile Parallel Processing Success is how high you bounce when you hit bottom. Performance Automation Dream big and dare to fail. To be the best, you must be able to handle the worst. Virtual Machines
 Blockchain Container Orchestration Security Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. RabbitMQ OAuth Version Control Innovation distinguishes between a leader and a follower. JavaScript Big Data Cloud GraphQL
+Optimization Zero Downtime Deployment Backend Container Orchestration DNS Routing Monitoring Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. WebSockets Parallel Processing API Python Microservices JavaScript Content Delivery Network
