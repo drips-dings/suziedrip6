@@ -13,3 +13,4 @@ JWT Distributed Systems I find that the harder I work, the more luck I seem to h
 Work hard in silence, let your success be your noise. API Performance Stay hungry, stay foolish. If you can dream it, you can do it. Load Balancing Automation Don't be afraid to give up the good to go for the great. API Gateway IoT Server Response Firewalls Security
 Do what you love and the money will follow. Message Queue GraphQL API Gateway Database Indexing
 The only way to do great work is to love what you do. CI/CD Event-driven Architecture Work hard in silence, let your success be your noise. Backend Cache Invalidation RabbitMQ Code Review Automation Testing Happiness is not something ready made. It comes from your own actions. Performance
+Simplicity is the ultimate sophistication. If you can dream it, you can do it. Performance Code Review Backend JWT A/B Testing
