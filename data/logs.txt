@@ -10,3 +10,4 @@ Work hard in silence, let your success be your noise. Python JavaScript Success 
 Success is how high you bounce when you hit bottom. Cache Invalidation Framework Version Control Big Data Data Science A/B Testing Virtual Machines Dream big and dare to fail. Code Review Replica Set
 Parallel Processing Kubernetes Automation The only way to do great work is to love what you do. A/B Testing CI/CD Quantum Computing RabbitMQ
 Act as if what you do makes a difference. It does. DNS Routing Blockchain Don't be afraid to give up the good to go for the great. Algorithm API Cache Invalidation Innovation distinguishes between a leader and a follower. A/B Testing JWT Virtual Machines Performance Load Testing Version Control Success is how high you bounce when you hit bottom.
+Optimization Database Message Queue Happiness is not something ready made. It comes from your own actions. Data Science
