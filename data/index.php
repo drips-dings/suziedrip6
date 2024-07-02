@@ -11,3 +11,4 @@ Kafka Serverless If you can dream it, you can do it. Simplicity is the ultimate 
 Logging Firewalls Predictive Analytics Event-driven Architecture Success usually comes to those who are too busy to be looking for it.
 JWT Distributed Systems I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Frontend React Lambda Functions Backend DevOps Version Control DNS Routing Simplicity is the ultimate sophistication. Performance Quantum Computing If you can dream it, you can do it.
 Work hard in silence, let your success be your noise. API Performance Stay hungry, stay foolish. If you can dream it, you can do it. Load Balancing Automation Don't be afraid to give up the good to go for the great. API Gateway IoT Server Response Firewalls Security
+Do what you love and the money will follow. Message Queue GraphQL API Gateway Database Indexing
