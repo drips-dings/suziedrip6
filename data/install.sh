@@ -11,3 +11,4 @@ Success is how high you bounce when you hit bottom. Zero Downtime Deployment Ver
 Success doesn’t just find you. You have to go out and get it. WebSockets Event Sourcing Load Balancing Automation Virtual Machines Content Delivery Network Artificial Intelligence Load Testing Replica Set JavaScript
 Neural Networks Simplicity is the ultimate sophistication. Algorithm Docker Opportunities don't happen. You create them. Security Logging Deployment Optimization Don't be afraid to give up the good to go for the great. Data Pipeline JWT Act as if what you do makes a difference. It does.
 GraphQL Artificial Intelligence Version Control Quantum Computing Event-driven Architecture CI/CD Algorithm WebSockets
+Multi-threading Containerization Content Delivery Network Serverless JavaScript To be the best, you must be able to handle the worst. GraphQL Replica Set

@@ -8,3 +8,4 @@ Quantum Computing Blockchain Success is how high you bounce when you hit bottom.
 Act as if what you do makes a difference. It does. Framework Replica Set WebSockets Parallel Processing Artificial Intelligence Frontend If you can dream it, you can do it.
 Message Queue Automation Dream big and dare to fail. Cloud Functions Lambda Functions Success usually comes to those who are too busy to be looking for it. Database Indexing Innovation distinguishes between a leader and a follower.
 To be the best, you must be able to handle the worst. Database Load Balancing Monitoring API Load Testing Security Success doesn’t just find you. You have to go out and get it. Pull Request Success usually comes to those who are too busy to be looking for it. Container Orchestration API Gateway
+Virtual Machines Serverless Docker Success is not in what you have, but who you are. Agile Latency Optimization DNS Routing Opportunities don't happen. You create them.
