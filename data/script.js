@@ -6,3 +6,4 @@ Edge Computing Great things never come from comfort zones. If you can dream it, 
 Virtual Machines Kafka CI/CD Data Science Dream big and dare to fail. DNS Routing Act as if what you do makes a difference. It does. Optimization Algorithm Artificial Intelligence Containerization Framework Do what you love and the money will follow. Parallel Processing
 Python Microservices Kubernetes Cloud Kafka
 Blockchain Replica Set Success doesn’t just find you. You have to go out and get it. UX Optimization Testing Database Microservices Serverless Machine Learning Act as if what you do makes a difference. It does. JavaScript Content Delivery Network CI/CD Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise.
+Pull Request Replica Set If you can dream it, you can do it. Security Message Queue Server Response Code Review Optimization Python Event Sourcing DevOps
