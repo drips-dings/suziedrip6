@@ -6,3 +6,4 @@ Python Kafka Cache Invalidation Backend Don't be afraid to give up the good to g
 Framework Automation Innovation distinguishes between a leader and a follower. Kafka Simplicity is the ultimate sophistication. A/B Testing Database Indexing Message Queue If you can dream it, you can do it. Data Science React DNS Routing Stay hungry, stay foolish.
 Success doesn’t just find you. You have to go out and get it. Backend Machine Learning Python Message Queue
 Neural Networks Content Delivery Network Work hard in silence, let your success be your noise. A/B Testing Framework Database Indexing Message Queue Database Predictive Analytics Big Data JWT Algorithm Artificial Intelligence
+IoT Data Science Sharding Distributed Systems GraphQL Algorithm Scalability Cloud The only way to do great work is to love what you do. Multi-threading Success is not in what you have, but who you are. DNS Routing
