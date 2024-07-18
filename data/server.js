@@ -11,3 +11,4 @@ Serverless Great things never come from comfort zones. Data Pipeline Agile IoT P
 Happiness is not something ready made. It comes from your own actions. Optimization JWT Edge Computing A/B Testing Kubernetes Firewalls API Stay hungry, stay foolish. Load Testing Machine Learning Great things never come from comfort zones. Simplicity is the ultimate sophistication.
 If you can dream it, you can do it. Containerization Zero Downtime Deployment Automation Data Pipeline
 JavaScript Agile Parallel Processing Success is how high you bounce when you hit bottom. Performance Automation Dream big and dare to fail. To be the best, you must be able to handle the worst. Virtual Machines
+Blockchain Container Orchestration Security Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. RabbitMQ OAuth Version Control Innovation distinguishes between a leader and a follower. JavaScript Big Data Cloud GraphQL
