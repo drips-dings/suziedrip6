@@ -8,3 +8,4 @@ Database JavaScript Pull Request DNS Routing Deployment Logging Don't be afraid 
 JavaScript Docker Monitoring Automation Kubernetes Server Response Framework If you can dream it, you can do it. Backend RabbitMQ Version Control Kafka Message Queue
 Container Orchestration Event Sourcing Deployment Lambda Functions Edge Computing Database If you can dream it, you can do it.
 Database Simplicity is the ultimate sophistication. Load Balancing Kafka Pull Request
+Monitoring Server Response Stay hungry, stay foolish. Neural Networks The only way to do great work is to love what you do. Big Data Kubernetes JWT Containerization Success is not in what you have, but who you are. Cloud Simplicity is the ultimate sophistication.
