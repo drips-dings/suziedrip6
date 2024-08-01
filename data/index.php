@@ -8,3 +8,4 @@ Opportunities don't happen. You create them. Python Don't be afraid to give up t
 Parallel Processing Replica Set Multi-threading React Predictive Analytics
 Frontend Automation Machine Learning UX Optimization DevOps Data Science Artificial Intelligence Simplicity is the ultimate sophistication. Database Indexing Serverless I find that the harder I work, the more luck I seem to have. Data Pipeline
 Kafka Serverless If you can dream it, you can do it. Simplicity is the ultimate sophistication. IoT Pull Request Version Control Work hard in silence, let your success be your noise. Load Testing Data Pipeline Testing CI/CD Innovation distinguishes between a leader and a follower. Parallel Processing
+Logging Firewalls Predictive Analytics Event-driven Architecture Success usually comes to those who are too busy to be looking for it.
