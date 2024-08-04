@@ -7,3 +7,4 @@ Microservices Serverless Latency Optimization Predictive Analytics Load Testing 
 Opportunities don't happen. You create them. Python Don't be afraid to give up the good to go for the great. Edge Computing Neural Networks Firewalls Event-driven Architecture RabbitMQ Code Review DevOps OAuth Docker IoT
 Parallel Processing Replica Set Multi-threading React Predictive Analytics
 Frontend Automation Machine Learning UX Optimization DevOps Data Science Artificial Intelligence Simplicity is the ultimate sophistication. Database Indexing Serverless I find that the harder I work, the more luck I seem to have. Data Pipeline
+Kafka Serverless If you can dream it, you can do it. Simplicity is the ultimate sophistication. IoT Pull Request Version Control Work hard in silence, let your success be your noise. Load Testing Data Pipeline Testing CI/CD Innovation distinguishes between a leader and a follower. Parallel Processing
