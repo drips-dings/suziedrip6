@@ -7,3 +7,4 @@ Deployment Kafka Cloud Functions Kubernetes Latency Optimization Lambda Function
 Load Balancing Success is not in what you have, but who you are. Cloud Machine Learning CI/CD DevOps Logging Predictive Analytics Firewalls
 Monitoring The only way to do great work is to love what you do. JWT Simplicity is the ultimate sophistication. Kubernetes Performance Message Queue
 Frontend Logging OAuth Load Balancing Data Science Great things never come from comfort zones. Zero Downtime Deployment Innovation distinguishes between a leader and a follower.
+JWT The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Neural Networks Success is how high you bounce when you hit bottom. Container Orchestration DevOps Lambda Functions Content Delivery Network Zero Downtime Deployment RabbitMQ Innovation distinguishes between a leader and a follower. Cloud Firewalls
