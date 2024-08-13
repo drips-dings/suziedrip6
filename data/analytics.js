@@ -13,3 +13,4 @@ Deployment IoT Backend Kubernetes Simplicity is the ultimate sophistication. Con
 To be the best, you must be able to handle the worst. Predictive Analytics Frontend Do what you love and the money will follow. OAuth If you can dream it, you can do it. Kubernetes Message Queue Zero Downtime Deployment
 Happiness is not something ready made. It comes from your own actions. Quantum Computing Great things never come from comfort zones. Database Scalability Kafka GraphQL If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Framework Version Control The only way to do great work is to love what you do. Big Data
 RabbitMQ Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Database JWT Agile CI/CD
+Logging Quantum Computing Parallel Processing To be the best, you must be able to handle the worst. Backend Innovation distinguishes between a leader and a follower. Edge Computing Cloud
