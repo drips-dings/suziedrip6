@@ -5,3 +5,4 @@ Cache Invalidation WebSockets Event Sourcing Data Science Act as if what you do 
 Do what you love and the money will follow. Neural Networks Docker Opportunities don't happen. You create them. OAuth Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it.
 Microservices Serverless Latency Optimization Predictive Analytics Load Testing Event-driven Architecture API Container Orchestration Frontend Agile DevOps Server Response
 Opportunities don't happen. You create them. Python Don't be afraid to give up the good to go for the great. Edge Computing Neural Networks Firewalls Event-driven Architecture RabbitMQ Code Review DevOps OAuth Docker IoT
+Parallel Processing Replica Set Multi-threading React Predictive Analytics

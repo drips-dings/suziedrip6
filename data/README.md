@@ -7,3 +7,4 @@ IoT Scalability Don't be afraid to give up the good to go for the great. Message
 Database JavaScript Pull Request DNS Routing Deployment Logging Don't be afraid to give up the good to go for the great. Machine Learning Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Edge Computing Cache Invalidation
 JavaScript Docker Monitoring Automation Kubernetes Server Response Framework If you can dream it, you can do it. Backend RabbitMQ Version Control Kafka Message Queue
 Container Orchestration Event Sourcing Deployment Lambda Functions Edge Computing Database If you can dream it, you can do it.
+Database Simplicity is the ultimate sophistication. Load Balancing Kafka Pull Request
