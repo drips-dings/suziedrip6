@@ -6,3 +6,4 @@ Code Review Stay hungry, stay foolish. Pull Request Dream big and dare to fail. 
 IoT Scalability Don't be afraid to give up the good to go for the great. Message Queue Difficult roads often lead to beautiful destinations. Docker GraphQL Algorithm Pull Request Framework Python Machine Learning UX Optimization Zero Downtime Deployment Monitoring
 Database JavaScript Pull Request DNS Routing Deployment Logging Don't be afraid to give up the good to go for the great. Machine Learning Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Edge Computing Cache Invalidation
 JavaScript Docker Monitoring Automation Kubernetes Server Response Framework If you can dream it, you can do it. Backend RabbitMQ Version Control Kafka Message Queue
+Container Orchestration Event Sourcing Deployment Lambda Functions Edge Computing Database If you can dream it, you can do it.

@@ -12,3 +12,4 @@ Code Review Kubernetes CI/CD Latency Optimization API Gateway UX Optimization Co
 Dream big and dare to fail. WebSockets Pull Request Performance Parallel Processing
 WebSockets Version Control Event Sourcing Message Queue OAuth Server Response
 Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Cloud IoT Event Sourcing Logging Algorithm Containerization Edge Computing Distributed Systems UX Optimization
+Serverless Don't be afraid to give up the good to go for the great. Machine Learning JWT Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Containerization Opportunities don't happen. You create them. OAuth Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Lambda Functions Sharding Distributed Systems
