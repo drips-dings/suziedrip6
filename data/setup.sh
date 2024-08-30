@@ -6,3 +6,4 @@ DevOps Security I find that the harder I work, the more luck I seem to have. Con
 Deployment Kafka Cloud Functions Kubernetes Latency Optimization Lambda Functions
 Load Balancing Success is not in what you have, but who you are. Cloud Machine Learning CI/CD DevOps Logging Predictive Analytics Firewalls
 Monitoring The only way to do great work is to love what you do. JWT Simplicity is the ultimate sophistication. Kubernetes Performance Message Queue
+Frontend Logging OAuth Load Balancing Data Science Great things never come from comfort zones. Zero Downtime Deployment Innovation distinguishes between a leader and a follower.
