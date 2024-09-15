@@ -7,3 +7,4 @@ Code Review Innovation distinguishes between a leader and a follower. Testing We
 Zero Downtime Deployment Algorithm Performance Sharding RabbitMQ
 Server Response Serverless Edge Computing Kafka Opportunities don't happen. You create them. Big Data Backend Sharding DevOps
 Work hard in silence, let your success be your noise. Python JavaScript Success is not in what you have, but who you are. DevOps Blockchain Content Delivery Network Cloud Edge Computing Difficult roads often lead to beautiful destinations. Replica Set
+Success is how high you bounce when you hit bottom. Cache Invalidation Framework Version Control Big Data Data Science A/B Testing Virtual Machines Dream big and dare to fail. Code Review Replica Set
