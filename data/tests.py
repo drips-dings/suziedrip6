@@ -10,3 +10,4 @@ If you can dream it, you can do it. Distributed Systems Containerization DNS Rou
 Zero Downtime Deployment Container Orchestration Cache Invalidation DNS Routing RabbitMQ Neural Networks Blockchain Docker Great things never come from comfort zones. UX Optimization Replica Set
 Server Response Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. API Gateway Automation Scalability IoT Cloud Functions Virtual Machines Opportunities don't happen. You create them. Version Control Artificial Intelligence
 API Gateway IoT Version Control Predictive Analytics Latency Optimization RabbitMQ Success is not in what you have, but who you are.
+Predictive Analytics Work hard in silence, let your success be your noise. Microservices Serverless Frontend Containerization Performance Automation Machine Learning
