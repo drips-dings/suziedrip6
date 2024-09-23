@@ -3,3 +3,4 @@ Cloud Functions OAuth Code Review Logging Testing If you can dream it, you can d
 React Latency Optimization Load Balancing JWT Event Sourcing DevOps Artificial Intelligence Database Cloud Firewalls Happiness is not something ready made. It comes from your own actions. API Message Queue
 Cache Invalidation Algorithm Cloud Lambda Functions Containerization Event Sourcing
 DevOps Security I find that the harder I work, the more luck I seem to have. Containerization Kubernetes Machine Learning DNS Routing
+Deployment Kafka Cloud Functions Kubernetes Latency Optimization Lambda Functions
