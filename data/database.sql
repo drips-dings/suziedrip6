@@ -9,3 +9,4 @@ Replica Set JWT Lambda Functions Monitoring Neural Networks Docker Success is ho
 UX Optimization Kafka Don't be afraid to give up the good to go for the great. Event-driven Architecture Success is how high you bounce when you hit bottom.
 Message Queue I find that the harder I work, the more luck I seem to have. Backend Predictive Analytics Event-driven Architecture Database Indexing IoT Quantum Computing Great things never come from comfort zones. Data Pipeline Containerization
 Docker Python API Database Backend Event-driven Architecture Security Kubernetes Blockchain Great things never come from comfort zones. Framework Do what you love and the money will follow. Firewalls
+Monitoring Kubernetes OAuth GraphQL Act as if what you do makes a difference. It does.
