@@ -8,3 +8,4 @@ Backend RabbitMQ GraphQL Data Pipeline Happiness is not something ready made. It
 UX Optimization Content Delivery Network Happiness is not something ready made. It comes from your own actions. API Gateway Blockchain JWT
 Cloud Do what you love and the money will follow. Quantum Computing If you can dream it, you can do it. Containerization NLP JWT Success doesn’t just find you. You have to go out and get it. React
 Success is how high you bounce when you hit bottom. Zero Downtime Deployment Version Control Load Balancing Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Edge Computing Backend Automation A/B Testing Latency Optimization UX Optimization Blockchain Firewalls IoT
+Success doesn’t just find you. You have to go out and get it. WebSockets Event Sourcing Load Balancing Automation Virtual Machines Content Delivery Network Artificial Intelligence Load Testing Replica Set JavaScript
