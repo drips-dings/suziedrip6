@@ -4,3 +4,4 @@ Artificial Intelligence Version Control Multi-threading Opportunities don't happ
 IoT Simplicity is the ultimate sophistication. Python Performance Testing Lambda Functions
 Python Kafka Cache Invalidation Backend Don't be afraid to give up the good to go for the great. Multi-threading Agile Distributed Systems OAuth Virtual Machines Dream big and dare to fail.
 Framework Automation Innovation distinguishes between a leader and a follower. Kafka Simplicity is the ultimate sophistication. A/B Testing Database Indexing Message Queue If you can dream it, you can do it. Data Science React DNS Routing Stay hungry, stay foolish.
+Success doesn’t just find you. You have to go out and get it. Backend Machine Learning Python Message Queue
