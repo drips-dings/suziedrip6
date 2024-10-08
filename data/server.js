@@ -6,3 +6,4 @@ Agile Parallel Processing Don't be afraid to give up the good to go for the grea
 Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Microservices Opportunities don't happen. You create them. Big Data
 OAuth WebSockets Dream big and dare to fail. Success is how high you bounce when you hit bottom. Distributed Systems JavaScript Performance DNS Routing Load Testing Docker Blockchain Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Serverless Data Science
 Pull Request API Gateway Replica Set NLP IoT A/B Testing Event-driven Architecture
+A/B Testing Containerization Blockchain Simplicity is the ultimate sophistication. Optimization Message Queue Innovation distinguishes between a leader and a follower. WebSockets Artificial Intelligence Neural Networks Latency Optimization Event-driven Architecture Success is not in what you have, but who you are. IoT

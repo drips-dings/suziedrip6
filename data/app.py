@@ -9,3 +9,4 @@ Data Pipeline Database Artificial Intelligence Quantum Computing Cloud Functions
 Framework Server Response Success doesn’t just find you. You have to go out and get it. Kubernetes UX Optimization Dream big and dare to fail. Python Performance Blockchain Happiness is not something ready made. It comes from your own actions. Algorithm Cloud To be the best, you must be able to handle the worst.
 Event-driven Architecture OAuth API Database Indexing Content Delivery Network DevOps Difficult roads often lead to beautiful destinations. Frontend Event Sourcing Code Review Cloud
 Code Review Kubernetes CI/CD Latency Optimization API Gateway UX Optimization Content Delivery Network Event Sourcing RabbitMQ Kafka JavaScript Success is how high you bounce when you hit bottom. A/B Testing GraphQL DevOps
+Dream big and dare to fail. WebSockets Pull Request Performance Parallel Processing
