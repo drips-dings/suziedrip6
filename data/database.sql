@@ -6,3 +6,4 @@ Load Balancing Framework Sharding Stay hungry, stay foolish. Lambda Functions Wo
 CI/CD Predictive Analytics I find that the harder I work, the more luck I seem to have. Docker Testing UX Optimization Multi-threading
 CI/CD Success is how high you bounce when you hit bottom. DevOps Lambda Functions Dream big and dare to fail.
 Replica Set JWT Lambda Functions Monitoring Neural Networks Docker Success is how high you bounce when you hit bottom.
+UX Optimization Kafka Don't be afraid to give up the good to go for the great. Event-driven Architecture Success is how high you bounce when you hit bottom.
