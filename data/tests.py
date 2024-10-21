@@ -7,3 +7,4 @@ Backend Testing Kafka Dream big and dare to fail. Serverless Frontend Data Scien
 I find that the harder I work, the more luck I seem to have. Logging Distributed Systems Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. WebSockets
 Event Sourcing Multi-threading RabbitMQ Success is how high you bounce when you hit bottom. Agile To be the best, you must be able to handle the worst. Sharding
 If you can dream it, you can do it. Distributed Systems Containerization DNS Routing Logging
+Zero Downtime Deployment Container Orchestration Cache Invalidation DNS Routing RabbitMQ Neural Networks Blockchain Docker Great things never come from comfort zones. UX Optimization Replica Set

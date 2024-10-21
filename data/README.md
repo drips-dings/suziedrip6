@@ -3,3 +3,4 @@ Security Algorithm Happiness is not something ready made. It comes from your own
 Parallel Processing Backend Success is not in what you have, but who you are. Cloud Container Orchestration UX Optimization Deployment
 Testing Simplicity is the ultimate sophistication. Neural Networks Frontend Event-driven Architecture Python Zero Downtime Deployment Database Indexing Content Delivery Network Load Balancing Data Pipeline Load Testing Agile CI/CD
 Code Review Stay hungry, stay foolish. Pull Request Dream big and dare to fail. Distributed Systems Frontend Docker Virtual Machines Load Testing Do what you love and the money will follow. Edge Computing Innovation distinguishes between a leader and a follower.
+IoT Scalability Don't be afraid to give up the good to go for the great. Message Queue Difficult roads often lead to beautiful destinations. Docker GraphQL Algorithm Pull Request Framework Python Machine Learning UX Optimization Zero Downtime Deployment Monitoring
