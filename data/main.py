@@ -3,3 +3,4 @@ Database Indexing API I find that the harder I work, the more luck I seem to hav
 Microservices Distributed Systems Success usually comes to those who are too busy to be looking for it. Sharding Stay hungry, stay foolish. GraphQL Database Big Data Security
 Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Containerization Sharding Event-driven Architecture Load Testing Security CI/CD
 OAuth Data Pipeline Work hard in silence, let your success be your noise. Sharding Blockchain Firewalls Message Queue Event Sourcing Opportunities don't happen. You create them. GraphQL I find that the harder I work, the more luck I seem to have. Server Response Containerization DNS Routing Success is how high you bounce when you hit bottom.
+Machine Learning Predictive Analytics Lambda Functions Opportunities don't happen. You create them. Parallel Processing Security
