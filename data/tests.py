@@ -6,3 +6,4 @@ Security CI/CD Containerization Neural Networks Event Sourcing To be the best, y
 Backend Testing Kafka Dream big and dare to fail. Serverless Frontend Data Science Firewalls
 I find that the harder I work, the more luck I seem to have. Logging Distributed Systems Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. WebSockets
 Event Sourcing Multi-threading RabbitMQ Success is how high you bounce when you hit bottom. Agile To be the best, you must be able to handle the worst. Sharding
+If you can dream it, you can do it. Distributed Systems Containerization DNS Routing Logging

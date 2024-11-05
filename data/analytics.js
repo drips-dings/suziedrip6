@@ -9,3 +9,4 @@ Machine Learning React Automation JWT API
 Code Review Sharding Multi-threading Blockchain WebSockets Event Sourcing
 Lambda Functions Message Queue Data Pipeline Cloud Functions Happiness is not something ready made. It comes from your own actions. Data Science Machine Learning Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations.
 JWT Security Happiness is not something ready made. It comes from your own actions. Frontend JavaScript Opportunities don't happen. You create them. The only way to do great work is to love what you do. Success is not in what you have, but who you are. Latency Optimization Docker Replica Set Database
+Deployment IoT Backend Kubernetes Simplicity is the ultimate sophistication. Containerization Version Control Monitoring Automation Do what you love and the money will follow. Python Work hard in silence, let your success be your noise. Microservices Parallel Processing Cloud
