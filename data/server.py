@@ -2,3 +2,4 @@ Virtual Machines Deployment Backend Blockchain Parallel Processing Agile Distrib
 OAuth A/B Testing Code Review Data Science Automation Agile Database Indexing Success doesn’t just find you. You have to go out and get it. Optimization Python Microservices Success is how high you bounce when you hit bottom. DNS Routing Event Sourcing
 Deployment Security WebSockets I find that the harder I work, the more luck I seem to have. UX Optimization
 Event-driven Architecture Code Review Logging Agile Innovation distinguishes between a leader and a follower. Algorithm To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Cloud JWT Dream big and dare to fail. Database RabbitMQ Frontend
+DevOps Success doesn’t just find you. You have to go out and get it. Database Message Queue Distributed Systems Quantum Computing Code Review
