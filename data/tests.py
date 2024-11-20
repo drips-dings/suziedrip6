@@ -4,3 +4,4 @@ DevOps Big Data Serverless Artificial Intelligence Cloud Functions Edge Computin
 Great things never come from comfort zones. Simplicity is the ultimate sophistication. JavaScript Logging Virtual Machines Performance Version Control
 Security CI/CD Containerization Neural Networks Event Sourcing To be the best, you must be able to handle the worst. Content Delivery Network Parallel Processing Serverless GraphQL
 Backend Testing Kafka Dream big and dare to fail. Serverless Frontend Data Science Firewalls
+I find that the harder I work, the more luck I seem to have. Logging Distributed Systems Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. WebSockets
