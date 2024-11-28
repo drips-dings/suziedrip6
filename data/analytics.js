@@ -7,3 +7,4 @@ Code Review API Gateway Testing Difficult roads often lead to beautiful destinat
 Database Indexing CI/CD API Gateway Monitoring Distributed Systems Firewalls Performance Event-driven Architecture Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Pull Request Logging Event Sourcing
 Machine Learning React Automation JWT API
 Code Review Sharding Multi-threading Blockchain WebSockets Event Sourcing
+Lambda Functions Message Queue Data Pipeline Cloud Functions Happiness is not something ready made. It comes from your own actions. Data Science Machine Learning Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations.
