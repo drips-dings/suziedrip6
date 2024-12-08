@@ -4,3 +4,4 @@ Stay hungry, stay foolish. Success usually comes to those who are too busy to be
 Multi-threading Quantum Computing I find that the harder I work, the more luck I seem to have. UX Optimization The only way to do great work is to love what you do. Replica Set Docker Deployment A/B Testing API Logging RabbitMQ If you can dream it, you can do it.
 Machine Learning Framework Artificial Intelligence Event Sourcing Automation Cloud Functions
 Security Containerization Cloud DNS Routing Data Science
+Backend RabbitMQ GraphQL Data Pipeline Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Pull Request
