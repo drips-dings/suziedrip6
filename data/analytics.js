@@ -6,3 +6,4 @@ Load Testing Stay hungry, stay foolish. Blockchain Frontend Multi-threading DevO
 Code Review API Gateway Testing Difficult roads often lead to beautiful destinations. A/B Testing Firewalls
 Database Indexing CI/CD API Gateway Monitoring Distributed Systems Firewalls Performance Event-driven Architecture Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Pull Request Logging Event Sourcing
 Machine Learning React Automation JWT API
+Code Review Sharding Multi-threading Blockchain WebSockets Event Sourcing
