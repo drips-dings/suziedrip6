@@ -5,3 +5,4 @@ Container Orchestration Version Control Microservices Act as if what you do make
 Load Testing Stay hungry, stay foolish. Blockchain Frontend Multi-threading DevOps Latency Optimization Act as if what you do makes a difference. It does.
 Code Review API Gateway Testing Difficult roads often lead to beautiful destinations. A/B Testing Firewalls
 Database Indexing CI/CD API Gateway Monitoring Distributed Systems Firewalls Performance Event-driven Architecture Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Pull Request Logging Event Sourcing
+Machine Learning React Automation JWT API
