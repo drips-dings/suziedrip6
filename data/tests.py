@@ -3,3 +3,4 @@ OAuth Do what you love and the money will follow. Blockchain Virtual Machines La
 DevOps Big Data Serverless Artificial Intelligence Cloud Functions Edge Computing Logging Monitoring Load Testing Testing Database Indexing Scalability Container Orchestration Containerization
 Great things never come from comfort zones. Simplicity is the ultimate sophistication. JavaScript Logging Virtual Machines Performance Version Control
 Security CI/CD Containerization Neural Networks Event Sourcing To be the best, you must be able to handle the worst. Content Delivery Network Parallel Processing Serverless GraphQL
+Backend Testing Kafka Dream big and dare to fail. Serverless Frontend Data Science Firewalls
