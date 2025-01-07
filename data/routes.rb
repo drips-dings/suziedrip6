@@ -3,3 +3,4 @@ Event Sourcing GraphQL Innovation distinguishes between a leader and a follower.
 Frontend Event Sourcing Scalability Algorithm Performance
 Automation Machine Learning Edge Computing Logging Scalability Simplicity is the ultimate sophistication.
 Kafka Containerization Container Orchestration Code Review Content Delivery Network Big Data Database Indexing Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Load Testing Backend React Machine Learning Multi-threading
+Docker Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Predictive Analytics Quantum Computing I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. OAuth React Simplicity is the ultimate sophistication. DNS Routing Big Data
