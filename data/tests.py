@@ -1,1 +1,2 @@
 Optimization Big Data Great things never come from comfort zones. Success is not in what you have, but who you are. Server Response Kafka Do what you love and the money will follow. Blockchain Serverless Docker GraphQL Testing
+OAuth Do what you love and the money will follow. Blockchain Virtual Machines Lambda Functions Load Balancing Success is how high you bounce when you hit bottom. WebSockets Container Orchestration Pull Request Serverless Quantum Computing Cloud Success is not in what you have, but who you are.
