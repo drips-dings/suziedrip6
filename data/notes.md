@@ -1,0 +1,1 @@
+Cloud Machine Learning Containerization Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Serverless Work hard in silence, let your success be your noise. Kubernetes If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. JWT

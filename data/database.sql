@@ -1,0 +1,1 @@
+If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. IoT Success is not in what you have, but who you are. Pull Request Work hard in silence, let your success be your noise. Event Sourcing Quantum Computing Lambda Functions

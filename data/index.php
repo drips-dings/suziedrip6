@@ -1,0 +1,1 @@
+Zero Downtime Deployment Automation Don't be afraid to give up the good to go for the great. Kubernetes A/B Testing CI/CD Big Data Performance UX Optimization Success is not in what you have, but who you are. Testing Event-driven Architecture If you can dream it, you can do it. Cloud Functions Lambda Functions
